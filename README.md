@@ -1,24 +1,114 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Analytics projects using Python, SQL & Excel<br>👯 I’m looking to collaborate on EDA, visualization, and dashboard projects<br>🤝 I’m looking for help with Power BI and advanced machine learning concepts<br>🌱 I’m currently learning Power BI, ML models, and data storytelling<br>💬 Ask me about Pandas, NumPy, Matplotlib, Excel, SQL<br>⚡ Fun fact: I can spend hours finding patterns in messy datasets 😄
+# Hi, I'm Sahil Lakra 👋
 
+**Data Analyst | Business Intelligence | Python · SQL · Excel · Power BI**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahillakra_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sahil-lakra-5349b12b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakra08sahil@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SahilLakra08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SahilLakra08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilLakra08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SahilLakra08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SahilLakra08&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📍 Delhi NCR, India &nbsp;|&nbsp; 📧 lakra08sahil@gmail.com &nbsp;|&nbsp; 🎓 B.Tech CSE — GGSIPU (2022–26)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SahilLakra08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🔭 Currently building end-to-end BI projects — from raw messy data to interactive dashboards
+- 🌱 Learning **Power BI** (Star Schema, DAX, Drill-through) and advanced **SQL** for analytics
+- 💼 Interned as a **BI Analyst at Polycab India Limited** — built KPI dashboards across B2B sales operations
+- 📊 I enjoy finding business insights hidden inside messy, multi-source datasets
+- ⚡ Fun fact: I spent more time cleaning data than building the dashboard — and that is exactly how it should be
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Querying**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**BI & Analytics Tools**
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-2E75B6?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Python Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 📊 TechNova Electronics — B2B Sales Analytics Dashboard
+> Excel · Power Query · Pivot Tables · PivotCharts · Data Cleaning
+
+End-to-end BI project on 67,000 rows of messy multi-source data (Salesforce CRM + SAP ERP + Excel).
+
+- Cleaned 12 real-world data quality issues — mixed date formats, 1,001 duplicates, 63,466 wrong calculations
+- Built 14 Pivot Table analyses — Sales, Customer, Product, Discount
+- Delivered interactive executive dashboard — 6 KPI cards, 4 charts, Timeline + 4 slicers
+- Discovered 5 business insights independently — including Mobile margin problem and North vs South efficiency gap
+
+🔗 [View Project](https://github.com/SahilLakra08/TechNova-B2B-Sales-Analytics)
+
+---
+
+### 📈 Stock Market Prediction & Analytics Dashboard
+> Python · Scikit-learn · Streamlit · Plotly · yfinance
+
+- Built forecasting platform with 10+ technical indicators (RSI, Bollinger Bands, Moving Averages)
+- Random Forest & Linear Regression models achieving **R² > 0.90**
+- Deployed interactive Streamlit dashboard with real-time multi-stock visualization
+
+🔗 [View Project](https://github.com/SahilLakra08)
+
+---
+
+### 🎬 Netflix Content Analytics
+> Python · Pandas · Matplotlib · Seaborn
+
+- EDA on 9,000+ Netflix titles — genre trends, content growth, rating distributions
+- Delivered insight-driven visualizations for content strategy analysis
+
+🔗 [View Project](https://github.com/SahilLakra08)
+
+---
+
+## 💼 Professional Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Business Intelligence Analyst Intern | Polycab India Limited, Noida | Apr – May 2026 |
+| Data Analyst Intern | ClinchBridge (Remote) | Feb 2026 |
+| Salesforce & Data Analytics Intern | Polycab India Limited, Noida | Jul – Aug 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilLakra08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilLakra08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-lakra-5349b12b4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakra08sahil@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sahillakra_08)
+
+---
+
+*Currently rebuilding the TechNova project in **Power BI** with Star Schema, DAX measures, and drill-through reports 🚀*
